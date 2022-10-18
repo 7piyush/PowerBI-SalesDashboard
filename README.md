@@ -10,5 +10,8 @@ Data set [link](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-
 - Created Custom tooltips for even futher insights
 ## Tooltip Snapshot 
 ![image](https://user-images.githubusercontent.com/76834393/196356053-8f1fdf62-4dcd-4709-900d-045a5239b741.png)
+## Time Series 
+![image](https://user-images.githubusercontent.com/76834393/196356296-2f828362-9565-42cc-b91e-94bcb4f67c60.png)
+
 
 This is a fully interactive dashboard with multiple slicers to provide indepth information with just a glance.
